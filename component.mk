@@ -5,5 +5,5 @@
 
 ifdef CONFIG_AUDIO_BOARD_CUSTOM
 COMPONENT_ADD_INCLUDEDIRS += ./esp32_s3_korvo_1
-COMPONENT_SRCDIRS += ./esp32_s3_koevo_1
+COMPONENT_SRCDIRS += ./esp32_s3_korvo_1
 endif
