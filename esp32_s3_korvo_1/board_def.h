@@ -77,7 +77,7 @@
  * @brief Audio Codec Chip Function Definition
  */
 #define FUNC_AUDIO_CODEC_EN         (1)
-#define PA_ENABLE_GPIO              GPIO_NUM_46
+#define PA_ENABLE_GPIO              GPIO_NUM_38
 #define HEADPHONE_DETECT            (-1)
 #define CODEC_ADC_I2S_PORT          (0)
 #define CODEC_ADC_BITS_PER_SAMPLE   I2S_BITS_PER_SAMPLE_32BIT
